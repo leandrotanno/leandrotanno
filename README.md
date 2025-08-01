@@ -1,4 +1,4 @@
-# 🤙🏽 Opa, eu sou o Leandro Tanno!
+# 🤙🏽 Opa, eu sou o Tanno!
 Sou um profissional que curte o que faz e também **dados, tecnologia e desenvolvimento**, com foco em projetos que conectam dados brutos a decisões inteligentes, automações e melhorias contínuas de produto.
 
 ## 🚀 Stack Profissional
