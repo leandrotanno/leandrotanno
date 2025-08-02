@@ -19,7 +19,7 @@ Sou um profissional que curte o que faz e também **dados, tecnologia e desenvol
 - 🐳 Infraestrutura leve com **Docker** e **Linux**  
   Ambientes reprodutíveis e escaláveis para desenvolvimento, deploy de scripts, serviços e notebooks — seguindo boas práticas de dev.
 
-## 🧰 Ferramentas e Tecnologias
+## 🧰 Ferramentas e Tecnologias (que tenho ou tive contato)
 ### 🐍 Linguagens
 ![Python](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-informational?style=flat&logo=SQL&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=white) 
 
@@ -67,7 +67,7 @@ Sou um profissional que curte o que faz e também **dados, tecnologia e desenvol
 Se quiser bater um papo, trocar ideias ou colaborar em algo, me chama:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/leandrotanno)
-- ✉️ leandro.tanno [at] gmail.com
+- ✉️ tannoleandro [at] gmail.com
 
 ---
 
