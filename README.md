@@ -66,7 +66,7 @@ Sou um profissional que curte o que faz e também **dados, tecnologia e desenvol
 ## 📬 Vamos trocar ideia?
 Se quiser bater um papo, trocar ideias ou colaborar em algo, me chama:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/leandrotanno)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tanno-leandro-33124323/)
 - ✉️ tannoleandro [at] gmail.com
 
 ---
